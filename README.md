@@ -17,7 +17,7 @@
     />
   </p>
 </div>
-<div align="center">
+<div align="center" style="display: none;">
   <p>
     <img
       src="https://metrics.lecoq.io/fengyun2?template=classic&config.timezone=Asia%2FShanghai"
