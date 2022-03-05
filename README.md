@@ -21,7 +21,7 @@
   <p>
     <img
       src="https://metrics.lecoq.io/fengyun2?template=classic&config.timezone=Asia%2FShanghai"
-      height="165"
+      width="100%"
     />
   </p>
 </div>
